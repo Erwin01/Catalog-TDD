@@ -1,0 +1,219 @@
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.exe
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.deps.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.dev.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\ref\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.pdb
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.Manifest.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.xml
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\scopedcss\bundle\CatalogAPI.styles.css
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CopyComplete
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\ref\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.pdb
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.genruntimeconfig.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.AssemblyReference.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.exe
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.deps.json
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.json
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.dev.json
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\ref\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.pdb
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.AssemblyReference.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfoInputs.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfo.cs
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.Manifest.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.xml
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\scopedcss\bundle\CatalogAPI.styles.css
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CopyComplete
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\ref\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.pdb
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.genruntimeconfig.cache
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\LiteX HealthChecks MongoDB.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erwinp\Documents\MyDevelop\TDD Demo\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.AssemblyReference.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfoInputs.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfo.cs
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\ref\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.pdb
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.exe
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.deps.json
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.json
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.dev.json
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\ref\CatalogAPI.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\CatalogAPI.pdb
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\LiteX HealthChecks MongoDB.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.Manifest.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.xml
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\scopedcss\bundle\CatalogAPI.styles.css
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CopyComplete
+C:\Users\erwinp\Documents\MyDevelop\CatalogAPI\CatalogAPI\obj\Debug\net5.0\CatalogAPI.genruntimeconfig.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\appsettings.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.exe
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.deps.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.runtimeconfig.dev.json
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\ref\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\CatalogAPI.pdb
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\LiteX HealthChecks MongoDB.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Extensions.Logging.File.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.Async.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Serilog.Sinks.RollingFile.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.AssemblyReference.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfoInputs.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.AssemblyInfo.cs
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CoreCompileInputs.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.Manifest.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\staticwebassets\CatalogAPI.StaticWebAssets.xml
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\scopedcss\bundle\CatalogAPI.styles.css
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.RazorTargetAssemblyInfo.cache
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.CopyComplete
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\ref\CatalogAPI.dll
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.pdb
+C:\Development2022\ApplicationFull\TDD Demo\CatalogAPI - NuevaVersion\CatalogAPI\obj\Debug\net5.0\CatalogAPI.genruntimeconfig.cache
