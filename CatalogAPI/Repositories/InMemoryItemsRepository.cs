@@ -1,4 +1,6 @@
-﻿using CatalogAPI.Entities;
+using CatalogAPI.Entities;
+using MongoDB.Bson;
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,23 +15,10 @@ namespace CatalogAPI.Repositories
 
         private readonly List<Item> items = new()
         {
-            new Item { Id = Guid.NewGuid(), Name = "Potion", Description = "Restores a small amount of HG", Price = 9, CreatedDate = DateTimeOffset.UtcNow },
-            new Item { Id = Guid.NewGuid(), Name = "Iron Sword", Description = "", Price = 20, CreatedDate = DateTimeOffset.UtcNow },
-            new Item { Id = Guid.NewGuid(), Name = "Bronze Shield", Description = "Armor +100", Price = 19, CreatedDate = DateTimeOffset.UtcNow },
+            new Item { Id = ObjectId.GenerateNewId(), Name = "Potion", Description = "Restores a small amount of HG", Price = 9, CreatedDate = DateTimeOffset.Now },
+            new Item { Id = ObjectId.GenerateNewId(), Name = "Iron Sword", Description = "Iron", Price = 20, CreatedDate = DateTimeOffset.Now },
+            new Item { Id = ObjectId.GenerateNewId(), Name = "Bronze Shield", Description = "Armor +100", Price = 19, CreatedDate = DateTimeOffset.Now },
         };
-
-
-        public async Task<IEnumerable<Item>> GetItemsAsync() 
-        {
-            return await Task.FromResult(items);
-        }
-
-
-        public async Task<Item> GetItemAsync(Guid id)
-        {
-            var item = items.Where(item => item.Id == id).SingleOrDefault();
-            return await Task.FromResult(item);
-        }
 
 
         public async Task CreateItemAsync(Item item)
@@ -38,21 +27,29 @@ namespace CatalogAPI.Repositories
             await Task.CompletedTask;
         }
 
-
-        public async Task UpdateItemAsync(Item item)
+        public async Task DeleItemAsync(string id)
         {
-            var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
-            items[index] = item;
+            var index = items.FindIndex(existingItem => existingItem.Id == new ObjectId(id));
+            items.RemoveAt(index);
             await Task.CompletedTask;
         }
 
-
-        public async Task DeleItemAsync(Guid id)
+        public async Task<Item> GetItemByIdAsync(string id)
         {
-            var index = items.FindIndex(existingItem => existingItem.Id == id);
-            items.RemoveAt(index);
-            await Task.CompletedTask;
+            var item = items.Where(item => item.Id == new ObjectId(id)).SingleOrDefault();
+            return await Task.FromResult(item);
+        }
 
+        public async Task<IEnumerable<Item>> GetItemsAsync()
+        {
+            return await Task.FromResult(items);
+        }
+
+        public async Task UpdateItemAsync(Item item)
+        {
+            var index = items.FindIndex(existingItem => new BsonObjectId(existingItem.Id) == new BsonObjectId(item.Id));
+            items[index] = item;
+            await Task.CompletedTask;
         }
     }
 }
