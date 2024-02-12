@@ -1,4 +1,5 @@
-﻿using CatalogAPI.Entities;
+using CatalogAPI.Entities;
+using CatalogAPI.Settings;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
@@ -11,88 +12,40 @@ namespace CatalogAPI.Repositories
     public class MongoDbItemsRepository : IItemsRepository
     {
 
-        private const string databaseName = "catalog";
-        private const string collectionName = "items";
+        internal MongoDbSettings _repository = new MongoDbSettings();
+        private readonly IMongoCollection<Item> Collection;
 
-        private readonly IMongoCollection<Item> _itemsCollection;
-        private readonly FilterDefinitionBuilder<Item> _filterDefinitionBuilder = Builders<Item>.Filter;
-        public MongoDbItemsRepository(IMongoClient mongoClient)
+
+        public MongoDbItemsRepository()
         {
-            IMongoDatabase database = mongoClient.GetDatabase(databaseName);
-            _itemsCollection = database.GetCollection<Item>(collectionName);
+            Collection = _repository.mongoDatabase.GetCollection<Item>("Items");
         }
 
-        //private readonly List<Item> items = new()
-        //{
-        //    new Item { Id = Guid.NewGuid(), Name = "Potion", Price = 9, CreatedDate = DateTimeOffset.UtcNow },
-        //    new Item { Id = Guid.NewGuid(), Name = "Iron Sword", Price = 20, CreatedDate = DateTimeOffset.UtcNow },
-        //    new Item { Id = Guid.NewGuid(), Name = "Bronze Shield", Price = 19, CreatedDate = DateTimeOffset.UtcNow },
-        //};
-
-        //public async Task CreateItem(Item item)
-        //{
-        //    await Task.CompletedTask;
-        //    items.Add(item);
-
-        //}
-
-        //public async Task DeleItem(Guid id)
-        //{
-        //    await Task.CompletedTask;
-        //    var index = items.FindIndex(existingItem => existingItem.Id == id);
-        //    items.RemoveAt(index);
-
-        //}
-
-        //public async Task<Item> GetItem(Guid id)
-        //{
-        //    await Task.CompletedTask;
-        //    var index = items.Where(item => item.Id == id).SingleOrDefault();
-        //    return index;
-        //}
-
-        //public async Task<IEnumerable<Item>> GetItems()
-        //{
-        //    await Task.CompletedTask;
-        //    return items;
-        //}
-
-        //public async Task UpdateItem(Item item)
-        //{
-        //    await Task.CompletedTask;
-        //    var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
-        //    items[index] = item;
-
-
-        //}
-
-
-        public async Task CreateItemAsync(Item item)
+        public async Task<Item> GetItemByIdAsync(string id)
         {
-            await _itemsCollection.InsertOneAsync(item);
-        }
-
-        public async Task DeleItemAsync(Guid id)
-        {
-            var filter = _filterDefinitionBuilder.Eq(item => item.Id, id);
-            await _itemsCollection.DeleteOneAsync(filter);
-        }
-
-        public async Task<Item> GetItemAsync(Guid id)
-        {
-            var filter = _filterDefinitionBuilder.Eq(item => item.Id, id);
-            return await _itemsCollection.Find(filter).SingleOrDefaultAsync();
+            return await Collection.FindAsync(new BsonDocument { { "_id", new ObjectId(id) } }).Result.FirstAsync();
         }
 
         public async Task<IEnumerable<Item>> GetItemsAsync()
         {
-            return await _itemsCollection.Find(new BsonDocument()).ToListAsync();
+            return await Collection.FindAsync(new BsonDocument()).Result.ToListAsync();
+        }
+
+        public async Task CreateItemAsync(Item item)
+        {
+            await Collection.InsertOneAsync(item);
         }
 
         public async Task UpdateItemAsync(Item item)
         {
-            var filter = _filterDefinitionBuilder.Eq(existsItem => existsItem.Id, item.Id);
-            await _itemsCollection.ReplaceOneAsync(filter, item);
+            var filter = Builders<Item>.Filter.Eq(i => i.Id, item.Id);
+            await Collection.ReplaceOneAsync(filter, item);
+        }
+
+        public async Task DeleItemAsync(string id)
+        {
+            var filter = Builders<Item>.Filter.Eq(i => i.Id, new ObjectId(id));
+            await Collection.DeleteOneAsync(filter);
         }
     }
 }
