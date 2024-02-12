@@ -1,4 +1,4 @@
-﻿using CatalogAPI.Entities;
+using CatalogAPI.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ namespace CatalogAPI.Repositories
     public interface IItemsRepository
     {
 
-        Task<Item> GetItemAsync(Guid id);
+        Task<Item> GetItemByIdAsync(string id);
 
         Task<IEnumerable<Item>> GetItemsAsync();
 
@@ -17,8 +17,9 @@ namespace CatalogAPI.Repositories
 
         Task UpdateItemAsync(Item item);
 
-        Task DeleItemAsync(Guid id);
+        Task DeleItemAsync(string id);
 
 
     }
 }
+
